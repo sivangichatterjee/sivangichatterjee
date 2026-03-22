@@ -1,4 +1,6 @@
-## Hi there! I am Sivangi Chatterjee, an MS CS student at University of Pennsylvania.
+## Hi there!
+
+I am Sivangi Chatterjee, an MS CS student at University of Pennsylvania.
 I am interested in Generalist ML agents, Foundation Models and MLSystems. I also thoroughly enjoy workinng on distributed systems.
 I am looking for SWE intern, MLE intern, AI Researcher intern, Data Scientist intern opportunities for summer 2026.
 Please contact me if you want to collaborate: 
