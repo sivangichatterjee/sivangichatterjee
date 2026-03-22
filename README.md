@@ -4,9 +4,9 @@
 - I am interested in Generalist ML agents, Foundation Models and MLSystems. I also thoroughly enjoy workinng on distributed systems.
 - I am looking for SWE intern, MLE intern, AI Researcher intern, Data Scientist intern opportunities for summer 2026.
 - Please contact me if you want to collaborate: 
-    -Gmail: sivangichatterjee999@gmail.com
-    -LinkedIn: https://www.linkedin.com/in/sivangi-chatterjee-07a984225/  
-    -Website: https://sivangichatterjee.github.io/
+    -- Gmail: sivangichatterjee999@gmail.com
+    -- LinkedIn: https://www.linkedin.com/in/sivangi-chatterjee-07a984225/  
+    -- Website: https://sivangichatterjee.github.io/
 
 <!--
 **sivangichatterjee/sivangichatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
